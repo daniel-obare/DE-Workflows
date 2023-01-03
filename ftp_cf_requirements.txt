@@ -1,0 +1,8 @@
+# Function dependencies : package>=version
+#
+google-cloud-bigquery==1.22.0
+python-csv==0.0.11
+requests==2.13.0
+wget==3.2
+DateTime==4.3
+regex==2019.11.1
